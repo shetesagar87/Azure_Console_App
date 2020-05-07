@@ -17,7 +17,7 @@ namespace Azure_Console_App
             string connectioString = "DefaultEndpointsProtocol=https;AccountName=csg10037ffe8d415449;AccountKey=9SpbWMWZcmcsFwLlQLdWGFs1SoyYtc9cUWOMuTdsv2grtQIIkGX+yzI/bzM9cAhrHJpjXyaj7FgJjwl204fCog==;EndpointSuffix=core.windows.net";
 
             BlobServiceClient blobClient = new BlobServiceClient(connectioString);
-
+            ///Sagar
 
         }
     }
